@@ -1,0 +1,6 @@
+eu:
+  zirko:
+    boot:
+      nested-properties:
+        nested-property: dummyNestedValue
+        inherited-property: dummyInheritedValue
